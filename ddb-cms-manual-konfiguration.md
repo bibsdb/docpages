@@ -5,7 +5,9 @@ _Opdateret 31. maj 2021._
 
 [Gem manualen som PDF](//pdfcrowd.com/url_to_pdf/)
 
-{{>toc}}
+{:toc}
+{{TOC}}
+[TOC]
 
 ![](/system/rich/rich_files/rich_files/000/000/028/original/forsiden_dump.png)
 
