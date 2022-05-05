@@ -1,5 +1,5 @@
-DDB CMS Manual - Konfiguration_
-===============================
+DDB CMS Manual - Konfiguration
+==============================
 
 [Gem manualen som PDF](//pdfcrowd.com/url_to_pdf/)
 
