@@ -1,4 +1,4 @@
-# Manual til DDB CMS NEXT (forsøg)
+# Indhold
 
 * [Video guides](./ddbcms-video-guides.md)
 * [Indhold og struktur](./ddbcms-struktur-og-indhold.md)
