@@ -1,7 +1,9 @@
-# Folkebibliotekernes CMS - version 2 
+# Folkebibliotekernes CMS - version 2
 
 *   [Video guides](./ddbcms-video-guides.md)
 *   [Indhold og struktur](./ddbcms-struktur-og-indhold.md)
 *   [Konfiguration](./ddb-cms-manual-konfiguration.md)
 
 ![](https://user-images.githubusercontent.com/1641342/167098483-8eb0e3cb-3c5a-4eb1-8fe2-63a4679bc358.jpg)
+
+![](https://user-images.githubusercontent.com/1641342/167112607-6c2e54e2-1f3b-4b88-ad79-cc116f5f34f8.png)
