@@ -1,4 +1,4 @@
-# Folkebibliotekernes CMS version 1
+# Folkebibliotekernes CMS release 1
 
 *   [Video guides](./ddbcms-video-guides.md)
 *   [Indhold og struktur](./ddbcms-struktur-og-indhold.md)
